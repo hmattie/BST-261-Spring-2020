@@ -16,13 +16,11 @@ Office Hour: Tuesdays 1-2pm or by appointment
 Kareem Carr
 PhD Candidate, Biostatistics  
 kareemcarr@g.harvard.edu
-
 Office Hour: TBD 
 
 Gopal Kotecha 
 PhD Candidate, Biostatistics  
 gkotecha@g.harvard.edu
-
 Office Hour: TBD
 
 Lab: TBD
