@@ -3,7 +3,8 @@
 Deep learning is a subfield of machine learning that builds predictive models using large artificial neural networks. Deep learning has revolutionized the fields of computer vision, automatic speech recognition, natural language processing, and numerous areas of computational biology. In this class, we will introduce the basic concepts of deep neural networks and cloud computing, discuss basic neural networks, convolutional neural networks and recurrent neural networks structures, and examine biomedical applications. Students are expected to be familiar with linear algebra, python and machine learning.
 
 All course material will be posted here. See below for assignment deadlines.
-**Note** all lectures, labs and office hours will be held via Zoom until further notice. The links to each meeting can be found on the course Canvas site.
+
+**NOTE: all lectures, labs and office hours will be held via Zoom until further notice. The links to each meeting can be found on the course Canvas site.**
 
 ### Course Instructor
 Heather Mattie  
