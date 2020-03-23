@@ -30,8 +30,6 @@ Office Hours: Mondays 12:45-2:45pm
 
 #### Homework 2: TBD
 
-#### Homework 3: TBD
-
 #### Group Project Proposal: Due Wednesday, May 15th by 11:59pm
 
 #### Paper presentations will take place throughout the course starting week 2
