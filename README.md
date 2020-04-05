@@ -26,9 +26,9 @@ gkotecha@g.harvard.edu
 Office Hours: Mondays 12:45-2:45pm
 
 
-#### Homework 1: Due Sunday, April 5th by 11:59pm
+#### Problem Set 1: Due Sunday, April 12th by 11:59pm
 
-#### Homework 2: TBD
+#### Problem Set 2: TBD
 
 #### Group Project Proposal: Due Wednesday, May 15th by 11:59pm
 
