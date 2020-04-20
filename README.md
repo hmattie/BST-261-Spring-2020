@@ -23,14 +23,14 @@ Lab: Fridays 9:45-11:15am
 Gopal Kotecha 
 PhD Candidate, Biostatistics  
 gkotecha@g.harvard.edu  
-Office Hours: Mondays 12:45-2:45pm
+Office Hours: Mondays 2:00-4:00pm
 
 
 #### Problem Set 1: Due Sunday, April 12th by 11:59pm
 
-#### Problem Set 2: TBD
+#### Problem Set 2: Due Friday, May 15th by 11:59pm
 
-#### Group Project Proposal: Due Wednesday, May 15th by 11:59pm
+#### Group Project Proposal: Due Friday, May 15th by 11:59pm
 
 #### Paper presentations will take place throughout the course starting week 2
 
